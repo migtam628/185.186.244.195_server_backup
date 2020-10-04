@@ -1,0 +1,6 @@
+# Ignore node_modules folder
+./imdb_scraper/node_modules
+./movies_api_server_backup/node_modules
+./subtitle-search/node_modules
+./movies_api_server/node_modules
+./putio_api/node_modules
